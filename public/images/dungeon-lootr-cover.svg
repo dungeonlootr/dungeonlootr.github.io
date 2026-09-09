@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Dungeon Lootr cover art">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050506"/>
+      <stop offset="100%" stop-color="#0D0D0F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1280" cy="180" r="220" fill="#3156E8" fill-opacity="0.18"/>
+  <circle cx="240" cy="720" r="260" fill="#3156E8" fill-opacity="0.1"/>
+  <rect x="120" y="220" width="900" height="420" rx="36" fill="#101012" stroke="#292A2E" stroke-width="3"/>
+  <text x="170" y="350" font-family="Inter, Arial, sans-serif" font-size="68" font-weight="700" fill="#F5F7FA">Dungeon Lootr</text>
+  <text x="170" y="430" font-family="Inter, Arial, sans-serif" font-size="34" fill="#A6A7AD">Codes, classes, aspects and tier lists</text>
+  <rect x="170" y="492" width="330" height="76" rx="18" fill="#3156E8"/>
+  <text x="335" y="542" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">Player Guide</text>
+</svg>

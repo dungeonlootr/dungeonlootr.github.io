@@ -1,0 +1,1087 @@
+[
+  {
+    "enabled": true,
+    "slug": "codes",
+    "pageType": "codes",
+    "navLabel": "Codes",
+    "title": "Dungeon Lootr Codes (September 2026) – Working Codes",
+    "description": "Latest Dungeon Lootr codes for September 2026, including working rewards, expired codes, and exact redemption steps. Updated and checked regularly.",
+    "keywords": [
+      "dungeon lootr codes",
+      "dungeon lootr code",
+      "dungeon lootr roblox codes",
+      "new dungeon lootr codes",
+      "working dungeon lootr codes"
+    ],
+    "primaryKeyword": "dungeon lootr codes",
+    "secondaryKeywords": [
+      "dungeon lootr code",
+      "dungeon lootr roblox codes",
+      "new dungeon lootr codes",
+      "working dungeon lootr codes"
+    ],
+    "searchIntent": "Find working Dungeon Lootr codes, rewards, expired entries and redemption instructions.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1000,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Updated September 4, 2026",
+      "heading": "Dungeon Lootr Codes",
+      "lead": "Use the working Dungeon Lootr codes below for free Coins, Luck Potions, Forge materials, Reforge materials, Aspect Gems and special rewards."
+    },
+    "sections": [
+      {
+        "id": "working-codes",
+        "heading": "Working Dungeon Lootr Codes",
+        "intro": "Copy each code exactly as shown and claim it in the in-game Codes menu. Codes can expire after updates, so use the newest entries first.",
+        "table": {
+          "caption": "Working codes — last checked September 4, 2026",
+          "columns": ["Code", "Reward", "Status", "Copy"],
+          "copyFromColumn": 0,
+          "rows": [
+            ["10KFAV", "Special reward", "Working", ""],
+            ["8KLIKE", "Special reward", "Working", ""],
+            ["FORGESKIP", "3 Forge Stone Bundles + 3 Reforge Stone Bundles", "Working", ""],
+            ["FULLRELEASE", "3 Luck Potion III + 25,000 Coins", "Working", ""],
+            ["LOOTRISBACK", "3 Forge Stone Bundles", "Working", ""],
+            ["JACKPOT", "5 Luck Potion III", "Working", ""],
+            ["20KPLAYERS", "5 Reforge Stone Bundles", "Working", ""],
+            ["GIVEMEGEMSPLEASE", "3 Aspect Gems", "Working", ""],
+            ["LOOTR", "1,000 Coins + Random GM Blessing", "Working", ""]
+          ]
+        },
+        "paragraphs": [
+          "10KFAV and 8KLIKE currently grant special rewards without a fixed item breakdown in the public code announcement. Claim them in-game to see the reward placed on your account. The remaining entries list their current reward so you can prioritize the resources your build needs.",
+          "FORGESKIP is the broadest crafting pickup because it supplies both Forge and Reforge Stone Bundles. GIVEMEGEMSPLEASE is the direct choice for Aspect rolls, while FULLRELEASE and JACKPOT support class rolling through Luck Potion III items. Claiming all nine takes only a few minutes and can remove a meaningful amount of early farming."
+        ]
+      },
+      {
+        "id": "redeem",
+        "heading": "How to Redeem Dungeon Lootr Codes",
+        "intro": "Join the ClickBytes Roblox community before redeeming, then use the Codes screen inside the official Dungeon Lootr experience.",
+        "steps": [
+          {
+            "heading": "Join ClickBytes",
+            "description": "Open the official ClickBytes Roblox community and join it with the same account you use to play."
+          },
+          {
+            "heading": "Launch the game",
+            "description": "Start the official Dungeon Lootr experience and wait until your character reaches the lobby."
+          },
+          {
+            "heading": "Open Codes",
+            "description": "Select Menu, then open Codes under More or Settings. Menu labels can vary between current builds."
+          },
+          {
+            "heading": "Paste and claim",
+            "description": "Paste one working code into the text field, remove accidental spaces and press Claim."
+          },
+          {
+            "heading": "Check the reward",
+            "description": "Confirm the item or currency reached your account before entering the next code."
+          }
+        ],
+        "paragraphs": [
+          "The two current menu paths reported for the release build are Menu → More → Codes and Menu → Settings → Codes. Both lead to the same claim screen. If one label is absent, check the other area before assuming the code feature has been removed.",
+          "Codes are normally single-use for each Roblox account. Copying is safer than retyping because capitalization matters and longer strings such as GIVEMEGEMSPLEASE are easy to mistype on mobile."
+        ]
+      },
+      {
+        "id": "expired",
+        "heading": "Expired Dungeon Lootr Codes",
+        "intro": "These older entries are no longer part of the working list.",
+        "table": {
+          "caption": "Expired codes",
+          "columns": ["Code", "Status"],
+          "rows": [
+            ["BYEMETA", "Expired"],
+            ["NEWASPECT", "Expired"],
+            ["EARLYACCESSYAY", "Expired"],
+            ["4KFAV", "Expired"],
+            ["3KLIKES", "Expired"]
+          ]
+        },
+        "paragraphs": [
+          "An expired code cannot be restored by changing servers or rejoining the community. If one of these entries returns during an event, it will move back to the working table with a new check date."
+        ]
+      },
+      {
+        "id": "not-working",
+        "heading": "Why a Dungeon Lootr Code May Not Work",
+        "intro": "Most claim errors come from account requirements, spelling, an old server or a code that has just expired.",
+        "subsections": [
+          {
+            "heading": "Check community membership",
+            "paragraphs": [
+              "The game requires players to join the ClickBytes Roblox community before promotional rewards can be claimed. Join with the correct account, return to the game and allow Roblox a moment to update membership."
+            ]
+          },
+          {
+            "heading": "Remove spaces and match capitalization",
+            "paragraphs": [
+              "Paste the code into an empty field. A leading space, trailing space or changed character can produce an invalid result even when the entry is still working."
+            ]
+          },
+          {
+            "heading": "Try a fresh server",
+            "paragraphs": [
+              "A newly released code may not register in an older server. Leave the experience, start a fresh session and try the claim again."
+            ]
+          },
+          {
+            "heading": "Check whether it was already used",
+            "paragraphs": [
+              "Each promotional code is generally available once per account. If the reward was claimed earlier, entering the same string again will not duplicate it."
+            ]
+          }
+        ],
+        "paragraphs": [
+          "When several working entries fail together, community membership or the server version is the most likely cause. When only one fails, re-copy that code first. A recent game update can also retire codes without a fixed expiry timer."
+        ]
+      },
+      {
+        "id": "new-codes",
+        "heading": "Where New Dungeon Lootr Codes Are Released",
+        "intro": "New codes usually follow release milestones, likes, favorites, player-count goals or game updates.",
+        "paragraphs": [
+          "The official Dungeon Lootr Discord is the most useful place to watch announcements and patch notes. The ClickBytes Roblox community connects your account to the developer group and is required for redemption, while the game page identifies the correct experience before you launch.",
+          "Milestone names such as 10KFAV and 8KLIKE also show the pattern used for recent rewards. Claim a new code soon after it appears instead of waiting for a later play session, because promotional entries can be removed between updates."
+        ],
+        "links": [
+          { "label": "Check official links", "slug": "trello", "description": "Open the Discord, Roblox game and ClickBytes community." },
+          { "label": "Use your Aspect Gems", "slug": "aspects", "description": "See which passives fit basic-attack, skill and survival builds." },
+          { "label": "Plan your next class", "slug": "classes", "description": "Compare the roll roster and special unlock routes." }
+        ]
+      },
+      {
+        "id": "codes-sources",
+        "heading": "Sources",
+        "intro": "Code status and rewards were last checked on September 4, 2026.",
+        "externalLinks": [
+          { "label": "Dungeon Lootr on Roblox", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr", "description": "Launch the official ClickBytes experience." },
+          { "label": "Beebom code list", "url": "https://beebom.com/dungeon-lootr-codes/", "description": "September 3 working and expired code update." }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What are the newest Dungeon Lootr codes?",
+        "answer": "10KFAV, 8KLIKE and FORGESKIP are the newest entries checked on September 4, 2026. The working table also includes FULLRELEASE, LOOTRISBACK, JACKPOT, 20KPLAYERS, GIVEMEGEMSPLEASE and LOOTR."
+      },
+      {
+        "question": "Do I need to join a group to redeem codes?",
+        "answer": "Yes. Join the ClickBytes Roblox community with the account you use for Dungeon Lootr before entering a promotional code."
+      },
+      {
+        "question": "Where is the Codes button?",
+        "answer": "Open Menu in the lobby and look under More or Settings. The label has appeared in both places across recent release builds."
+      },
+      {
+        "question": "Why does a working code say invalid?",
+        "answer": "Check ClickBytes membership, paste the code without spaces, match capitalization and try a fresh server. The code may also have expired since the last check."
+      }
+    ],
+    "relatedSlugs": ["trello", "aspects", "classes"],
+    "densityTargets": [
+      { "term": "Dungeon Lootr codes", "min": 0.3, "max": 1.2 }
+    ],
+    "lastReviewed": "2026-09-04"
+  },
+  {
+    "enabled": true,
+    "slug": "aspects",
+    "pageType": "guide",
+    "navLabel": "Aspects",
+    "title": "Dungeon Lootr Aspects – Best Aspects & Tier List",
+    "description": "Dungeon Lootr aspects guide with how Aspects work, Aspect Gems, current effects, and a practical tier list to help you choose the best Aspect.",
+    "keywords": [
+      "dungeon lootr aspects",
+      "dungeon lootr best aspect",
+      "dungeon lootr aspect tier list",
+      "best aspects in dungeon lootr",
+      "dungeon lootr aspect gem"
+    ],
+    "primaryKeyword": "dungeon lootr aspects",
+    "secondaryKeywords": [
+      "dungeon lootr best aspect",
+      "dungeon lootr aspect tier list",
+      "best aspects in dungeon lootr",
+      "dungeon lootr aspect gem"
+    ],
+    "searchIntent": "Understand Aspects, compare their effects and choose a passive that fits a class build.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1150,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "11 documented passives",
+      "heading": "Dungeon Lootr Aspects",
+      "lead": "Dungeon Lootr Aspects are passive traits attached to classes. Blaze, Ruin, Alacrity and Tempest are the strongest general picks in the current practical ranking."
+    },
+    "sections": [
+      {
+        "id": "aspect-tier-list",
+        "heading": "Dungeon Lootr Aspect Tier List",
+        "intro": "This community ranking favors consistent damage, useful triggers and compatibility with strong class playstyles. Balance changes and class pairings can move an Aspect up or down.",
+        "table": {
+          "caption": "Current practical Aspect ranking — September 2026",
+          "columns": ["Tier", "Aspects", "Best use"],
+          "rows": [
+            ["S", "Blaze, Ruin, Alacrity, Tempest", "Top damage choices for basic attacks, bosses or skill rotations"],
+            ["A", "Umbral, Sanguine", "Critical-hit burst or sustain in difficult solo content"],
+            ["B", "Fulmin, Verdant", "Pack control, lightning AoE or longer damage-over-time fights"],
+            ["C", "Aegis, Phantom, Glacial", "Parry, dodge or freeze setups that need more specific play"]
+          ]
+        },
+        "paragraphs": [
+          "Blaze is easy to use on fast-hitting classes because its value begins with ordinary attacks. Ruin is strongest when you can stay on one target and build pressure, which makes it attractive for boss encounters. Alacrity rewards rapid basic-attack loops, while Tempest turns repeated skill use into a growing damage cycle.",
+          "A lower tier does not mean an Aspect has no purpose. Aegis rewards successful parries, Phantom responds to dodges, and Glacial adds freeze and shatter utility. They simply ask for a narrower trigger than the top options. If that trigger already matches your class and playstyle, keeping the Aspect can be better than spending another gem immediately."
+        ]
+      },
+      {
+        "id": "what-are-aspects",
+        "heading": "What Are Aspects in Dungeon Lootr?",
+        "intro": "An Aspect adds a passive combat effect to the equipped class without changing that class's core moveset.",
+        "paragraphs": [
+          "The passive can react to basic attacks, critical hits, skill casts, parries or dodges. Some effects add direct damage or crowd control; others create a temporary damage window, healing or a stacking bonus. That trigger is the most important part of the choice. A class that activates an effect constantly can outperform a theoretically stronger pairing that rarely triggers.",
+          "Aspects are bound to the class that receives them. Switching to another class does not move the passive with you, so decide which class deserves the gem before rolling. Extra class slots make experimentation safer because you can keep a useful pairing while building a second one.",
+          "The current release has 11 commonly documented names: Blaze, Glacial, Fulmin, Aegis, Verdant, Sanguine, Umbral, Tempest, Phantom, Ruin and Alacrity. Exact effect values can move with patches, so use the class panel tooltip when a number determines a major build decision."
+        ]
+      },
+      {
+        "id": "all-aspect-effects",
+        "heading": "All Dungeon Lootr Aspect Effects",
+        "intro": "Use the trigger and role columns to find passives that activate during your normal rotation.",
+        "table": {
+          "caption": "Aspect effects and build roles",
+          "columns": ["Aspect", "Main trigger", "Practical effect", "Best fit"],
+          "rows": [
+            ["Blaze", "Basic attacks", "Ignites targets and increases pressure on burning enemies", "Fast M1 and general damage builds"],
+            ["Glacial", "Basic attacks", "Freezes targets and enables a shatter hit", "Control-focused clearing"],
+            ["Fulmin", "Basic attacks", "Calls a lightning strike with AoE and stun value", "Pack clearing and setup"],
+            ["Aegis", "Successful parry", "Creates a damaging nova and a short offensive window", "Parry-heavy defensive play"],
+            ["Verdant", "Basic attacks", "Applies stacking poison over time", "Long fights with steady uptime"],
+            ["Sanguine", "Hits", "Opens a life-steal window", "Solo survival and learning hard runs"],
+            ["Umbral", "Critical hits", "Adds shadow burst damage and control", "Crit-focused builds"],
+            ["Tempest", "Skill use", "Builds skill damage before a storm payoff", "Skill-heavy rotations"],
+            ["Phantom", "Dodge", "Leaves a damaging clone and can reward a clone kill", "Active dodge play"],
+            ["Ruin", "Basic attacks on one target", "Builds a mark that increases sustained single-target pressure", "Bosses and focused damage"],
+            ["Alacrity", "Basic attacks", "Creates a temporary attack-speed window", "Rapid M1 classes"]
+          ]
+        }
+      },
+      {
+        "id": "best-aspects",
+        "heading": "Best Dungeon Lootr Aspects for Different Builds",
+        "subsections": [
+          {
+            "heading": "Fast basic-attack classes",
+            "paragraphs": [
+              "Blaze and Alacrity fit classes that can produce many basic hits in a short window. More hits mean more chances to open their damage or speed effects. Ruin is also valuable when that rapid pressure stays on one boss."
+            ],
+            "bullets": [
+              "Use Blaze for simple, consistent pressure across rooms.",
+              "Use Alacrity when attack speed drives the whole rotation.",
+              "Use Ruin when single-target boss damage matters most."
+            ]
+          },
+          {
+            "heading": "Skill-focused classes",
+            "paragraphs": [
+              "Tempest is the natural first choice when a class cycles abilities frequently and relies on skill damage. Fulmin can support slower setups by stunning groups long enough to complete a rotation."
+            ],
+            "bullets": [
+              "Use Tempest for repeated skill casts and a growing payoff.",
+              "Use Fulmin when AoE control helps land the next ability."
+            ]
+          },
+          {
+            "heading": "Solo survival",
+            "paragraphs": [
+              "Sanguine is useful when recovery keeps a run alive. Aegis rewards confident parry timing, while Phantom serves players who dodge consistently. These choices trade some universal damage for a mechanic that can make difficult content safer."
+            ]
+          },
+          {
+            "heading": "Critical-hit builds",
+            "paragraphs": [
+              "Umbral belongs on a build that already creates critical hits often. Without that foundation the passive will feel inconsistent, but a prepared crit setup turns its burst into a regular part of the rotation."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aspect-gems",
+        "heading": "How to Get and Use Aspect Gems",
+        "intro": "Aspect Gems apply a random Aspect to the class you currently have equipped.",
+        "steps": [
+          {
+            "heading": "Choose the class",
+            "description": "Equip the class you plan to keep and confirm you are not about to overwrite a valuable pairing."
+          },
+          {
+            "heading": "Use an Aspect Gem",
+            "description": "Open your inventory, select the gem and use it once to roll a random passive onto that class."
+          },
+          {
+            "heading": "Read the class panel",
+            "description": "Check the Aspect name and its current tooltip on the class after the roll completes."
+          },
+          {
+            "heading": "Test the trigger",
+            "description": "Use the training area to try basic attacks, skills, parries or dodges until you understand how the effect activates."
+          }
+        ],
+        "paragraphs": [
+          "The working code GIVEMEGEMSPLEASE grants three Aspect Gems, making it the fastest current starting point. Challenge Dungeon milestone rewards can also supply gems later in progression. Because the result is random, save spare gems until you have a class worth improving instead of rolling every temporary early-game class.",
+          "A normal class Spin can also arrive with an Aspect. Check the class panel after rolling before spending a separate gem, especially when you are trying to preserve limited resources."
+        ],
+        "links": [
+          { "label": "Read the complete Aspect Gem guide", "slug": "aspect-gems", "description": "Follow the verified use flow, class checks and resource-planning tips before spending a gem." },
+          { "label": "Claim the Aspect Gem code", "slug": "codes", "description": "Copy GIVEMEGEMSPLEASE and the other working rewards." },
+          { "label": "Compare class strength", "slug": "tier-list", "description": "Pick a class worth investing in before using rare items." },
+          { "label": "Browse the class roster", "slug": "classes", "description": "See which options come from Spins and special unlocks." }
+        ]
+      },
+      {
+        "id": "choose-an-aspect",
+        "heading": "How to Choose an Aspect",
+        "intro": "Choose for activation frequency first, combat goal second and tier position third.",
+        "paragraphs": [
+          "Watch how the class spends most of a fight. If basic attacks fill the gaps between every ability, an on-hit Aspect has many chances to work. If the class wins through large skill rotations, Tempest is easier to activate than a parry passive. If failed runs are the main problem, sustain or control may create more progress than another damage effect.",
+          "Separate room clearing from bosses. Blaze and Fulmin can make repeated groups easier, while Ruin becomes more attractive when pressure stays on one durable target. A player farming Boss Rush may value a different passive from a new account clearing normal rooms.",
+          "Do not reroll a useful match simply because another name sits one tier higher. Gems are random, and the next result may fit the class worse. Keep a strong working pair until you have enough spare resources to accept an uncertain outcome."
+        ]
+      },
+      {
+        "id": "aspect-sources",
+        "heading": "Sources",
+        "intro": "Aspect names, effects and rankings were updated September 4, 2026.",
+        "externalLinks": [
+          { "label": "Current class and Aspect reference", "url": "https://allthings.how/dungeon-lootr-classes-rarities-drop-rates-and-how-to-unlock-them/", "description": "Recent release-build mechanics and class pairings." },
+          { "label": "Dungeon Lootr on Roblox", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr", "description": "Official ClickBytes experience." }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best Aspect in Dungeon Lootr?",
+        "answer": "Blaze, Ruin, Alacrity and Tempest are the strongest general choices in the current practical ranking. The best one for your account depends on whether the class relies on basic attacks, single-target pressure or repeated skills."
+      },
+      {
+        "question": "How do Aspect Gems work?",
+        "answer": "An Aspect Gem rolls one random passive onto the class you have equipped. Choose the class first, use the gem from inventory and check the new passive on the class panel."
+      },
+      {
+        "question": "Can I move an Aspect to another class?",
+        "answer": "No. The passive stays with the class that received it, so use gems on a class you plan to keep."
+      },
+      {
+        "question": "How many Aspects are there?",
+        "answer": "The current release has 11 commonly documented Aspects: Blaze, Glacial, Fulmin, Aegis, Verdant, Sanguine, Umbral, Tempest, Phantom, Ruin and Alacrity."
+      }
+    ],
+    "relatedSlugs": ["tier-list", "classes", "codes"],
+    "densityTargets": [
+      { "term": "Dungeon Lootr aspects", "min": 0.3, "max": 1.2 }
+    ],
+    "lastReviewed": "2026-09-04"
+  },
+  {
+    "enabled": true,
+    "slug": "tier-list",
+    "pageType": "list",
+    "navLabel": "Tier List",
+    "title": "Dungeon Lootr Tier List – Best Classes Ranked",
+    "description": "Dungeon Lootr tier list ranking the best classes for damage, mobility, survivability, and clearing dungeons, with picks for new and endgame players.",
+    "keywords": [
+      "dungeon lootr tier list",
+      "dungeon lootr tierlist",
+      "dungeon lootr class tier list",
+      "best classes in dungeon lootr",
+      "dungeon lootr best class"
+    ],
+    "primaryKeyword": "dungeon lootr tier list",
+    "secondaryKeywords": [
+      "dungeon lootr tierlist",
+      "dungeon lootr class tier list",
+      "best classes in dungeon lootr",
+      "dungeon lootr best class"
+    ],
+    "searchIntent": "Compare class performance and decide which classes are worth keeping, leveling or farming.",
+    "priority": "P0",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1300,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Current release ranking",
+      "heading": "Dungeon Lootr Tier List",
+      "lead": "Sinister Trigger, Awakened Devil EX, Cursed King, Anti Magic and Dreadlord lead the current Dungeon Lootr tier list for damage, clear power and dependable high-level performance."
+    },
+    "sections": [
+      {
+        "id": "tier-list",
+        "heading": "Dungeon Lootr Tier List",
+        "intro": "This practical ranking combines damage, AoE, mobility, survivability, parry or dodge protection and consistency. It is a player ranking rather than an official ClickBytes list.",
+        "table": {
+          "caption": "Class tier list — September 2026",
+          "columns": ["Tier", "Classes", "Meaning"],
+          "rows": [
+            ["S", "Sinister Trigger, Awakened Devil EX, Cursed King, Anti Magic, Dreadlord", "Elite endgame damage and strong tools for demanding content"],
+            ["A", "Honored One, Unrestricted, Jetstream, Shadow Vagrant, Founder, Azure Devil, Streamline, Artemis, Forge Archon, Witch Gunner, Boxer", "Powerful choices with strong clear value or an important progression role"],
+            ["B", "Demonbane, Vacio, Divergent, Wanderer, Cursed Child, Kage, Archer, Shinobi", "Solid classes that clear well but give up consistency, damage or protection"],
+            ["C", "Assassin, Flame Bastion, Greatsword, Ronin, Bowman", "Usable starting options to replace as stronger rolls arrive"]
+          ]
+        },
+        "paragraphs": [
+          "Rankings differ between active player lists because classes are judged under different conditions. Some lists reward peak boss damage, while others value mobility, easier execution or room clearing. The table favors classes that remain useful across several types of content rather than one ideal damage test.",
+          "Do not discard an A- or B-tier class that is carrying your current runs. Progression resources, class levels and a matching Aspect can make a familiar build more valuable than a rare class you cannot yet use well. Treat the tiers as a keep-and-chase guide, then adjust for the content in front of you."
+        ]
+      },
+      {
+        "id": "best-classes",
+        "heading": "Best Classes in Dungeon Lootr",
+        "subsections": [
+          {
+            "heading": "Sinister Trigger",
+            "paragraphs": [
+              "Sinister Trigger is the premium Spin chase. Its combination of damage, mobility and survival tools makes it useful in both rooms and longer encounters. It is also extremely rare, so it should be treated as a lucky top result rather than the only acceptable build."
+            ]
+          },
+          {
+            "heading": "Awakened Devil EX",
+            "paragraphs": [
+              "Awakened Devil EX combines rapid pressure with strong skill damage and defensive freedom during parts of its kit. The unlock grows from Azure Devil, giving players a clear reason to keep and level that Celestial class instead of viewing it as a temporary roll."
+            ]
+          },
+          {
+            "heading": "Cursed King",
+            "paragraphs": [
+              "Cursed King offers heavy area pressure and protection during important attacks. It is one of the strongest Boss Rush goals because the class can support both aggressive clearing and safer damage windows."
+            ]
+          },
+          {
+            "heading": "Anti Magic",
+            "paragraphs": [
+              "Anti Magic is another high-value Boss Rush or Forge target. It pairs strong damage with the tools needed to stay active in dangerous fights, making the long material route worthwhile for endgame accounts."
+            ]
+          },
+          {
+            "heading": "Dreadlord",
+            "paragraphs": [
+              "Dreadlord is a difficult special drop with strong value in demanding stages. Its access route is much less friendly than a normal Spin, so build a reliable farming class before making it the center of your progression plan."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "new-players",
+        "heading": "Best Dungeon Lootr Classes for New Players",
+        "intro": "The best early class is one that clears safely, feels consistent and does not require a long special-unlock chain.",
+        "subsections": [
+          {
+            "heading": "Witch Gunner",
+            "paragraphs": [
+              "Witch Gunner provides useful ranged pressure and can control difficult rooms without standing inside every enemy attack. That safety makes it one of the better straightforward rolls for learning dungeon flow."
+            ]
+          },
+          {
+            "heading": "Boxer",
+            "paragraphs": [
+              "Boxer is easy to understand and produces rapid basic attacks. That pattern works naturally with Blaze, Alacrity and Ruin, so the class can stay relevant when it receives a good Aspect."
+            ]
+          },
+          {
+            "heading": "Divergent",
+            "paragraphs": [
+              "Divergent is a dependable Mythic option that can support early and middle progression. Keep it while gathering the levels, Coins and materials needed for a more demanding unlock."
+            ]
+          },
+          {
+            "heading": "Azure Devil",
+            "paragraphs": [
+              "Azure Devil is the most important progression roll among the commonly chased Celestials. It performs well immediately and later becomes the class prerequisite for Awakened Devil EX, giving every level invested a second purpose."
+            ]
+          }
+        ],
+        "paragraphs": [
+          "A new account should prioritize reliable clears over an unrealistic perfect roll. Rare and Epic classes can finish opening content, while a strong Legendary, Mythic or Celestial can become the bridge to special classes. Save extra slots before rerolling anything that already handles your current dungeon."
+        ]
+      },
+      {
+        "id": "bosses-clears",
+        "heading": "Best Classes for Bosses and Dungeon Clears",
+        "intro": "Boss fights reward sustained single-target pressure and safe uptime; dungeon rooms reward AoE, range, mobility and quick target changes.",
+        "paragraphs": [
+          "For bosses, Sinister Trigger, Awakened Devil EX, Cursed King, Anti Magic, Honored One and Unrestricted are strong long-term targets. Their value comes from maintaining pressure while still handling mechanics, movement or dangerous attack windows. Ruin can improve a basic-attack build that stays on one target, while Tempest fits a class that cycles skills throughout the fight.",
+          "For general clears, wide area coverage and fast movement often matter more than peak damage against a stationary target. Cursed King and Honored One can control groups, Witch Gunner creates safe ranged space, and rapid classes such as Boxer or Azure Devil can move through smaller enemies quickly when paired with an on-hit Aspect.",
+          "Challenge Dungeon also rewards consistency across repeated waves. A build that survives several rooms without losing momentum can outperform a fragile setup with a higher theoretical burst. Sanguine, control effects and defensive class tools become more valuable when the run is long enough for mistakes to accumulate."
+        ]
+      },
+      {
+        "id": "ranking-method",
+        "heading": "How Classes Are Ranked",
+        "intro": "Tier placement uses six practical questions rather than rarity alone.",
+        "subsections": [
+          {
+            "heading": "Damage and uptime",
+            "paragraphs": [
+              "High burst matters only when attacks land consistently. Classes rise when they can keep meaningful damage active through movement, enemy patterns and repeated encounters."
+            ]
+          },
+          {
+            "heading": "AoE and clear speed",
+            "paragraphs": [
+              "Wide attacks, grouping and quick target switching reduce the time spent in normal rooms. Strong clearing also lowers the number of dangerous attacks a player needs to avoid."
+            ]
+          },
+          {
+            "heading": "Mobility and protection",
+            "paragraphs": [
+              "Movement, invulnerable windows, parry support and dodge protection let a class continue attacking safely. These tools become more important in harder content than they appear in a simple damage comparison."
+            ]
+          },
+          {
+            "heading": "Consistency and access",
+            "paragraphs": [
+              "A class that works across bosses, rooms and wave content ranks above a narrow specialist with the same peak. Access is discussed separately so a rare class is not automatically placed higher than a practical early option."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "better-classes",
+        "heading": "How to Get Better Classes",
+        "intro": "Use Spins for the main rarity pool, then work on special unlocks through Boss Rush, the Forge, quests and difficult mode drops.",
+        "paragraphs": [
+          "Normal and Lucky Spins are used in the Classes area. Lucky Spins improve access to higher rarity bands, so save Luck Potion III rewards for a focused rolling session. Buy another class slot before replacing a useful class, especially when that class is already leveled or has a matching Aspect.",
+          "Cursed King, Honored One and Anti Magic can come from Boss Rush class-item drops after deeper floors or from boss-fragment crafting at the Forge. Awakened Devil EX grows from Azure Devil with additional level, Coin and boss-item requirements. Unrestricted also uses a longer progression chain. Dreadlord comes from difficult Underworld Gate content rather than the normal Spin pool.",
+          "The fastest plan is usually two-track progression: keep a roll-based class that clears reliably, then farm the special class you want in the background. This avoids turning every dungeon session into an all-or-nothing chase."
+        ],
+        "links": [
+          { "label": "See all class unlock routes", "slug": "classes", "description": "Separate roll-pool classes from Boss Rush, Forge, quest and mode rewards." },
+          { "label": "Match an Aspect to your class", "slug": "aspects", "description": "Choose a passive for M1, skills, crit, parry, dodge or sustain." }
+        ]
+      },
+      {
+        "id": "tier-sources",
+        "heading": "Sources",
+        "intro": "Class names and release-build rankings were updated September 4, 2026.",
+        "externalLinks": [
+          { "label": "Pro Game Guides class tier list", "url": "https://progameguides.com/roblox/dungeon-lootr-class-tier-list/", "description": "September 2026 class ranking and performance criteria." },
+          { "label": "Destructoid class tier list", "url": "https://www.destructoid.com/dungeon-lootr-class-tier-list/", "description": "Release ranking, class highlights and unlock notes." }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is the best class in Dungeon Lootr?",
+        "answer": "Sinister Trigger is the strongest all-around Spin target, while Awakened Devil EX and Cursed King are elite long-term classes with excellent damage and protection. The best practical choice still depends on your content and available unlock route."
+      },
+      {
+        "question": "What class should a new player keep?",
+        "answer": "Witch Gunner, Boxer, Divergent and Azure Devil are useful progression picks. Keep a class that clears reliably until you have another slot or a clearly stronger replacement."
+      },
+      {
+        "question": "Is this an official Dungeon Lootr tier list?",
+        "answer": "No. ClickBytes does not publish an official class ranking. This current player ranking weighs damage, AoE, mobility, survival tools and consistency."
+      },
+      {
+        "question": "Can a lower-rarity class be worth using?",
+        "answer": "Yes. Rarity and performance are different. A familiar class with good range, fast attacks or a matching Aspect can outperform a rarer option on a developing account."
+      }
+    ],
+    "relatedSlugs": ["classes", "aspects"],
+    "densityTargets": [
+      { "term": "Dungeon Lootr tier list", "min": 0.3, "max": 1.2 }
+    ],
+    "lastReviewed": "2026-09-04"
+  },
+  {
+    "enabled": true,
+    "slug": "classes",
+    "pageType": "guide",
+    "navLabel": "Classes",
+    "title": "Dungeon Lootr Classes – All Classes & How to Get Them",
+    "description": "Dungeon Lootr classes guide with the current class roster, rarities, spin and unlock methods, plus links to the tier list for the strongest classes.",
+    "keywords": [
+      "dungeon lootr classes",
+      "all dungeon lootr classes",
+      "dungeon lootr class list",
+      "dungeon lootr class rarities",
+      "how to get classes in dungeon lootr",
+      "dungeon lootr class spins"
+    ],
+    "primaryKeyword": "dungeon lootr classes",
+    "secondaryKeywords": [
+      "all dungeon lootr classes",
+      "dungeon lootr class list",
+      "dungeon lootr class rarities",
+      "how to get classes in dungeon lootr",
+      "dungeon lootr class spins"
+    ],
+    "searchIntent": "See the class roster, rarities and the main ways each type of class is obtained.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1300,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Roster and unlock guide",
+      "heading": "Dungeon Lootr Classes",
+      "lead": "Roblox advertises 30+ Dungeon Lootr classes. The current release roster below covers 29 documented names across Spins, Boss Rush, the Forge, quests, mode drops and bundles."
+    },
+    "sections": [
+      {
+        "id": "class-roster",
+        "heading": "All Dungeon Lootr Classes",
+        "intro": "The official game page describes more than 30 unique classes. This 29-name release roster covers the classes currently used across major class guides, with special unlocks separated from the standard Spin pool.",
+        "table": {
+          "caption": "Current documented class roster by rarity",
+          "columns": ["Rarity", "Classes", "Main source"],
+          "rows": [
+            ["Rare", "Greatsword, Bowman, Ronin", "Class Spins"],
+            ["Epic", "Flame Bastion, Boxer, Assassin", "Class Spins"],
+            ["Legendary", "Archer, Witch Gunner, Shinobi, Kage", "Class Spins"],
+            ["Mythic", "Divergent, Cursed Child, Wanderer", "Class Spins"],
+            ["Celestial", "Artemis, Vacio, Azure Devil, Forge Archon, Unrestricted, Streamline, Demonbane", "Spins and special unlocks"],
+            ["Exotic", "Sinister Trigger, Cursed King, Honored One, Anti Magic, Awakened Devil EX, Dreadlord, Jetstream, Shadow Vagrant, Founder", "Spins, Boss Rush, Forge, quests, drops and bundles"]
+          ]
+        },
+        "paragraphs": [
+          "The official 30+ figure is wider than the 29-name table, so the roster should not be read as a permanent cap. New release updates can add names or move acquisition methods. Use the in-game Classes menu as the final reference when a newly added class appears.",
+          "Rarity describes access, not a guaranteed tier. Boxer is only Epic but can be useful because of its rapid basic attacks. Witch Gunner offers strong ranged play from the Legendary band, while some Celestial and Exotic choices matter because they lead into special evolution or quest routes."
+        ]
+      },
+      {
+        "id": "how-classes-work",
+        "heading": "How Dungeon Lootr Classes Work",
+        "intro": "A class supplies your active combat moveset and levels separately as you use it.",
+        "paragraphs": [
+          "Changing class changes the attacks and skills available during a run. This makes class choice the center of combat identity: one option may deliver fast close-range hits, another controls space from range, and another may depend on skill rotations or defensive timing. Stat choices, equipment and Aspects then shape that base kit.",
+          "Class slots let you keep multiple choices and switch without immediately losing a useful roll. Extra slots cost Coins, but they protect progression when you want to test another rarity or begin a special unlock. A second slot is often a better early purchase than replacing a dependable class on the hope of one perfect result.",
+          "Each class can also carry an Aspect. Because the passive remains attached to that class, a good class-and-Aspect combination is worth preserving even when neither item sits at the absolute top of a general ranking."
+        ]
+      },
+      {
+        "id": "class-rarities",
+        "heading": "Dungeon Lootr Class Rarities",
+        "intro": "The roll pool runs from Rare through Exotic, while several Celestial and Exotic classes come from other systems.",
+        "table": {
+          "caption": "Release-build Spin rates",
+          "columns": ["Rarity", "Normal Spin", "Lucky Spin"],
+          "rows": [
+            ["Rare", "70%", "20%"],
+            ["Epic", "20%", "40%"],
+            ["Legendary", "8%", "22%"],
+            ["Mythic", "2%", "16%"],
+            ["Celestial", "0.5%", "3%"],
+            ["Exotic", "0.05%", "0.1%"]
+          ]
+        },
+        "paragraphs": [
+          "Normal and Lucky rates have appeared differently in some early-release guides, while the current September tables above are shared by recent class references. Check the live Classes screen after an update before spending a large stock of Spins.",
+          "Lucky Spins move much more weight into Epic, Legendary, Mythic and Celestial outcomes. Their Exotic chance is still extremely small, so Sinister Trigger should be treated as an exceptional pull rather than the baseline for a playable account."
+        ]
+      },
+      {
+        "id": "get-classes",
+        "heading": "How to Get Classes in Dungeon Lootr",
+        "intro": "The main Classes area handles Spins, while advanced classes use Boss Rush, Forge crafting, NPC requirements, game modes or bundles.",
+        "steps": [
+          {
+            "heading": "Open the Classes area",
+            "description": "Go to the class interface in the lobby and choose between the available Spin types."
+          },
+          {
+            "heading": "Protect a class you need",
+            "description": "Buy another slot before rolling over a leveled class or a strong class-and-Aspect pairing."
+          },
+          {
+            "heading": "Use the right Spin",
+            "description": "Spend Normal Spins for routine attempts and save Lucky Spins for a focused higher-rarity session."
+          },
+          {
+            "heading": "Inspect the result",
+            "description": "Read the moveset, rarity and any attached Aspect before deciding to keep or replace the class."
+          }
+        ],
+        "paragraphs": [
+          "Spins are the normal route for 18 documented classes. The roll pool includes all Rare, Epic, Legendary and Mythic names in the table, four Celestials and Sinister Trigger as its Exotic prize. Spins can come from progression, promotional rewards and in-game purchases.",
+          "The other classes use dedicated requirements. Some ask for deep Boss Rush progress or boss fragments at the Forge. Others require a base class at a certain level, Coins and a mode-specific material. Keeping these routes separate prevents wasted Spins on a class that cannot appear in the roll pool."
+        ]
+      },
+      {
+        "id": "spin-vs-special",
+        "heading": "Spin Classes vs Special Unlock Classes",
+        "intro": "Use the table to avoid rolling for classes that belong to a different progression path.",
+        "table": {
+          "caption": "Special class routes",
+          "columns": ["Class", "Route", "Key requirement"],
+          "rows": [
+            ["Cursed King", "Boss Rush or Forge", "Class-item drop after deeper floors or Sukuna boss fragments"],
+            ["Honored One", "Boss Rush or Forge", "Class-item drop after deeper floors or Gojo boss fragments"],
+            ["Anti Magic", "Boss Rush or Forge", "Class-item drop after deeper floors or Asta boss fragments"],
+            ["Awakened Devil EX", "Evolution quest", "Leveled Azure Devil, Coins and a Devil Heart"],
+            ["Unrestricted", "Progression quest", "Player level, Coins, leveled Honored One and Heavenly Fragments"],
+            ["Dreadlord", "Mode drop", "Underworld Glaive route in Underworld Gate Nightmare"],
+            ["Jetstream", "NPC quest", "Advanced quest materials and progression"],
+            ["Founder", "Paid bundle", "Grand Sovereign Pack"],
+            ["Shadow Vagrant", "Special unlock", "Outside the normal Spin pool"],
+            ["Streamline", "Special unlock", "Outside the normal Spin pool"],
+            ["Demonbane", "Special unlock", "Outside the normal Spin pool"]
+          ]
+        },
+        "paragraphs": [
+          "Cursed King, Honored One and Anti Magic share a useful structure: push Boss Rush for a direct class item or collect boss-specific fragments for the Forge. The drop route can finish early, while crafting gives repeated deep runs a predictable long-term goal.",
+          "Awakened Devil EX and Unrestricted reward planning. Azure Devil is worth leveling because it feeds the Awakened Devil EX route. Honored One should also be preserved and developed when Unrestricted is the goal. These prerequisites are a strong reason to own extra class slots before chasing another roll."
+        ]
+      },
+      {
+        "id": "keep",
+        "heading": "Which Class Should You Keep?",
+        "intro": "Keep the class that clears your current content reliably, then compare it with the cost and purpose of the next upgrade.",
+        "paragraphs": [
+          "Sinister Trigger, Awakened Devil EX, Cursed King, Anti Magic and Dreadlord are premium endgame targets. Honored One, Unrestricted, Jetstream, Azure Devil, Witch Gunner and Boxer can also be valuable depending on progress and playstyle. The separate ranking page explains the performance tradeoffs without turning this roster into a second tier list.",
+          "For a new account, keep a solid Legendary, Mythic or Celestial rather than rerolling blindly. Witch Gunner helps players keep distance, Boxer pairs well with on-hit Aspects, Divergent is a reliable Mythic, and Azure Devil supports both current clearing and a later evolution.",
+          "Replace a class when the new option improves a real problem: slow room clears, weak boss pressure, poor mobility or frequent deaths. Do not replace one simply because its rarity color is lower. A leveled class with a compatible passive can remain the better tool for many sessions."
+        ],
+        "links": [
+          { "label": "See the Dungeon Lootr tier list", "slug": "tier-list", "description": "Compare damage, AoE, mobility, survival and new-player value." },
+          { "label": "Choose the best Aspect pairing", "slug": "aspects", "description": "Match passives to basic attacks, skills, critical hits or defense." },
+          { "label": "Claim free progression items", "slug": "codes", "description": "Get Luck Potions, Coins, materials and Aspect Gems." }
+        ]
+      },
+      {
+        "id": "class-sources",
+        "heading": "Sources",
+        "intro": "The roster and class systems were updated September 4, 2026.",
+        "externalLinks": [
+          { "label": "Dungeon Lootr on Roblox", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr", "description": "Official 30+ class description and core game details." },
+          { "label": "All Things How class guide", "url": "https://allthings.how/dungeon-lootr-classes-rarities-drop-rates-and-how-to-unlock-them/", "description": "Recent roster, Spin table and special unlock routes." }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How many Dungeon Lootr classes are there?",
+        "answer": "The official Roblox page advertises more than 30 unique classes. The current release table lists 29 documented names, and future updates can expand the roster."
+      },
+      {
+        "question": "How do I get a new class?",
+        "answer": "Use Normal or Lucky Spins in the Classes area for the main roll pool. Special classes come from Boss Rush, Forge crafting, NPC quests, mode drops, evolutions or bundles."
+      },
+      {
+        "question": "Do Lucky Spins guarantee a rare class?",
+        "answer": "No. Lucky Spins improve the higher-rarity distribution, but every result is still a roll and the Exotic chance remains very small."
+      },
+      {
+        "question": "Should I buy another class slot?",
+        "answer": "An extra slot is useful before risky rerolls or long special unlocks because it lets you preserve a leveled class and its Aspect."
+      },
+      {
+        "question": "Are the rarest classes always the best?",
+        "answer": "No. Rarity describes access. Real performance also depends on damage uptime, AoE, mobility, protection, class level, Aspect pairing and the content being cleared."
+      }
+    ],
+    "relatedSlugs": ["tier-list", "aspects", "codes"],
+    "densityTargets": [
+      { "term": "Dungeon Lootr classes", "min": 0.3, "max": 1.2 }
+    ],
+    "lastReviewed": "2026-09-04"
+  },
+  {
+    "enabled": true,
+    "slug": "trello",
+    "pageType": "guide",
+    "navLabel": "Trello",
+    "title": "Dungeon Lootr Trello, Wiki & Discord Links",
+    "description": "Looking for the Dungeon Lootr Trello? Check the current Trello status, official Discord, Roblox game, ClickBytes group, codes, classes, and guides.",
+    "keywords": [
+      "dungeon lootr trello",
+      "dungeon lootr wiki",
+      "dungeon lootr discord",
+      "dungeon lootr trello link",
+      "dungeon lootr official links"
+    ],
+    "primaryKeyword": "dungeon lootr trello",
+    "secondaryKeywords": [
+      "dungeon lootr wiki",
+      "dungeon lootr discord",
+      "dungeon lootr trello link",
+      "dungeon lootr official links"
+    ],
+    "searchIntent": "Find whether an official Trello exists and open the official community and game links.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 800,
+    "factsStatus": "verified",
+    "hero": {
+      "eyebrow": "Official resource status",
+      "heading": "Dungeon Lootr Trello",
+      "lead": "No official Dungeon Lootr Trello is currently linked by ClickBytes. Use the official Discord, Roblox game page, ClickBytes community and focused player guides below."
+    },
+    "sections": [
+      {
+        "id": "trello-status",
+        "heading": "Is There an Official Dungeon Lootr Trello?",
+        "intro": "No official Trello board is currently published through ClickBytes channels. Avoid boards that use the game name without a clear developer connection.",
+        "paragraphs": [
+          "Players searching for a Trello usually want class lists, update notes, codes, item details and progression help. Those needs are better served right now by the official Discord for announcements, the Roblox page for the live experience and focused guide pages for structured tables.",
+          "If ClickBytes publishes a board later, the destination should appear through an official channel before it is treated as the game's Trello. Until then, there is no reason to risk a copied login page, unrelated invite or fan board presented as official."
+        ],
+        "externalLinks": [
+          { "label": "Official Dungeon Lootr Discord", "url": "https://discord.com/invite/dungeonlootr", "description": "Announcements, update discussion, code drops and community help." },
+          { "label": "Play Dungeon Lootr on Roblox", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr", "description": "The official experience published by ClickBytes." },
+          { "label": "Join the ClickBytes community", "url": "https://www.roblox.com/communities/110427303/ClickBytes", "description": "Developer community membership used for code redemption." }
+        ]
+      },
+      {
+        "id": "official-links",
+        "heading": "Official Dungeon Lootr Links",
+        "intro": "Use these destinations for the live game, developer community and current announcements.",
+        "paragraphs": [
+          "The Roblox experience is the safest starting point because it names ClickBytes as the creator and contains the current public game description. The ClickBytes community links the game to its developer group. Discord is the fastest place to watch update messages and talk with active players.",
+          "Bookmark the direct addresses instead of relying on copied links in videos or comments. Roblox and Discord destinations can be imitated, so check the domain and the community name before signing in."
+        ],
+        "externalLinks": [
+          { "label": "Roblox game", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr" },
+          { "label": "Dungeon Lootr Discord", "url": "https://discord.com/invite/dungeonlootr" },
+          { "label": "ClickBytes Roblox community", "url": "https://www.roblox.com/communities/110427303/ClickBytes" }
+        ]
+      },
+      {
+        "id": "discord",
+        "heading": "Dungeon Lootr Discord",
+        "intro": "The official Discord is the closest current replacement for a live Trello because it can carry announcements, patch notes, code messages and player discussion.",
+        "paragraphs": [
+          "Check announcement and update channels first when a patch changes classes, Aspects or code status. Community guide channels and pinned messages can help with newly added content before a longer written guide catches up.",
+          "Discord is best for fresh conversation, but it is not always the fastest format for a simple lookup. Use the pages below when you need a clean code table, a class roster or an Aspect comparison without searching through chat history."
+        ]
+      },
+      {
+        "id": "alternatives",
+        "heading": "Best Alternatives to a Dungeon Lootr Trello",
+        "intro": "Choose the page that matches the answer you need.",
+        "links": [
+          { "label": "Working Dungeon Lootr codes", "slug": "codes", "description": "Copy active codes, see rewards and follow the current redemption path." },
+          { "label": "Dungeon Lootr classes", "slug": "classes", "description": "Browse the current roster, rarities, Spins and special unlock routes." },
+          { "label": "Dungeon Lootr Aspects", "slug": "aspects", "description": "Compare 11 passive effects and choose a build pairing." },
+          { "label": "Dungeon Lootr tier list", "slug": "tier-list", "description": "Find the strongest classes for damage, clearing and survival." }
+        ],
+        "paragraphs": [
+          "These guides keep separate intents on separate pages. Codes change quickly and belong in a dated claim table. Classes need a directory and obtainment paths. Aspects need triggers and build pairings. Rankings need performance criteria and can move after balance patches.",
+          "Start with Codes if you have not claimed the free progression resources. Move to Classes when deciding what can appear in Spins, then use the Tier List to decide what is worth keeping. Open Aspects before spending a gem on an established class."
+        ]
+      },
+      {
+        "id": "wiki-guides",
+        "heading": "Dungeon Lootr Wiki and Guides",
+        "intro": "The homepage acts as a compact Dungeon Lootr wiki hub for the game's main systems and routes each detailed question to one focused guide.",
+        "paragraphs": [
+          "Use the home guide for the core gameplay loop: randomized dungeons, class-based combat, bosses, loot and extraction. It also explains how codes, Spins, class slots, Aspects and advanced modes fit into a sensible progression order.",
+          "A focused structure is easier to use on mobile than one enormous table. It also keeps dynamic details attached to an update date, so a class ranking does not accidentally make an old code look current."
+        ],
+        "links": [
+          { "label": "Return to the Dungeon Lootr guide", "slug": "", "description": "Start with the game overview and progression path." }
+        ]
+      },
+      {
+        "id": "trello-sources",
+        "heading": "Sources",
+        "intro": "Official link status was last updated September 4, 2026.",
+        "externalLinks": [
+          { "label": "Dungeon Lootr on Roblox", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr", "description": "Official experience and ClickBytes publisher link." },
+          { "label": "Destructoid link hub", "url": "https://www.destructoid.com/dungeon-lootr-trello-wiki-and-discord/", "description": "Recent Trello status and official community destinations." }
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Does Dungeon Lootr have an official Trello?",
+        "answer": "No official Dungeon Lootr Trello is currently linked by ClickBytes. Use the official Discord, Roblox game page and ClickBytes community instead."
+      },
+      {
+        "question": "What is the official Dungeon Lootr Discord?",
+        "answer": "The current official invite is discord.com/invite/dungeonlootr. Check the invite name before joining."
+      },
+      {
+        "question": "Where is the official Dungeon Lootr game?",
+        "answer": "The official Roblox experience is published by ClickBytes at game ID 106484206883664."
+      },
+      {
+        "question": "What should I use instead of a Trello?",
+        "answer": "Use Discord for announcements, Roblox for the live game, the Codes page for rewards, Classes for the roster, Aspects for passive effects and the Tier List for class strength."
+      }
+    ],
+    "relatedSlugs": ["codes", "classes", "aspects", "tier-list"],
+    "densityTargets": [
+      { "term": "Dungeon Lootr Trello", "min": 0.3, "max": 1.2 }
+    ],
+    "lastReviewed": "2026-09-04"
+  },
+  {
+    "enabled": true,
+    "slug": "aspect-gems",
+    "pageType": "guide",
+    "navLabel": "Aspect Gems",
+    "title": "Dungeon Lootr Aspect Gems: How to Get and Use Them",
+    "description": "Learn how to get and use Dungeon Lootr Aspect Gems, which class receives the Aspect, and what to check before spending each gem.",
+    "keywords": ["Dungeon Lootr Aspect Gems", "Dungeon Lootr Aspect Gem", "Aspect Gem Dungeon Lootr", "how to get Aspect Gems in Dungeon Lootr", "how to use Aspect Gems in Dungeon Lootr"],
+    "primaryKeyword": "Dungeon Lootr Aspect Gems",
+    "secondaryKeywords": ["Dungeon Lootr Aspect Gem", "Aspect Gem Dungeon Lootr", "how to get Aspect Gems in Dungeon Lootr", "how to use Aspect Gems in Dungeon Lootr", "Dungeon Lootr Aspect Gem guide"],
+    "searchIntent": "Learn what Aspect Gems do, how to obtain and use them, which class receives the result, and how to avoid wasting a limited gem.",
+    "priority": "P1",
+    "navVisible": true,
+    "parentSlug": "",
+    "wordCountTarget": 1050,
+    "factsStatus": "verified",
+    "sourceNotes": [
+      "All Things How documents the Inventory > Aspect Gem > Use flow and confirms that the random result applies to the equipped class.",
+      "The September 2026 fact pack cross-checks Eurogamer and IGN for the GIVEMEGEMSPLEASE reward of three Aspect Gems.",
+      "Unpublished odds, prices, drop rates, replacement protection and refund behavior are omitted."
+    ],
+    "hero": {
+      "eyebrow": "Use the right gem on the right class",
+      "heading": "Dungeon Lootr Aspect Gems Guide",
+      "lead": "Dungeon Lootr Aspect Gems are consumable items that roll a random passive Aspect onto the class you currently have equipped. This guide explains the confirmed way to get and use a gem, how to choose the receiving Class, and what to check before you commit a limited resource."
+    },
+    "sections": [
+      {
+        "id": "what-are-aspect-gems",
+        "heading": "What Are Aspect Gems in Dungeon Lootr?",
+        "intro": "An Aspect Gem is the item used to add a random passive combat trait to your currently equipped Class.",
+        "paragraphs": [
+          "The gem is not an Aspect selector. Using one creates a random roll, so the useful decision you control is which Class is active when you spend it. The resulting Aspect changes how that Class performs through a passive trigger or bonus; it does not give you a new Class and it is separate from ordinary gear upgrades.",
+          "That distinction is the heart of this Dungeon Lootr Aspect Gem guide. Players looking for every passive effect, the strongest Aspect, or an Aspect tier list should use the dedicated Aspects guide. Here, the focus stays on the item itself: obtaining a confirmed gem reward, using it correctly, checking the target Class, and planning the next roll without wasting resources."
+        ]
+      },
+      {
+        "id": "how-to-get-aspect-gems",
+        "heading": "How to Get Aspect Gems in Dungeon Lootr",
+        "intro": "Promotional codes are the confirmed source covered by current references, and code status can change without notice.",
+        "paragraphs": [
+          "The verified September 2026 reward record lists GIVEMEGEMSPLEASE as granting three Aspect Gems. Open the current Codes page before redeeming it: that page is maintained as the time-sensitive source for working and expired rewards, while this guide avoids turning one code snapshot into a permanent promise.",
+          "Redeem a working code through the game's code menu, then check your Inventory for the reward. A spelling error, an expired promotion, or an unmet in-game requirement can prevent a code from working. Copy the exact text and follow the redemption notes on the Codes page instead of relying on an old video or comment.",
+          "Other modes and progression systems may change across updates, but the public material used for this page does not establish a dependable Aspect Gem drop table, rate, shop price, or guaranteed milestone schedule. For that reason, this guide does not name an unconfirmed farming route. Treat the live game's reward panel and ClickBytes announcements as the final check whenever a patch adds a new source."
+        ],
+        "links": [
+          { "label": "Check current Dungeon Lootr codes", "slug": "codes", "description": "Confirm that a reward is still listed as working before trying to claim it." }
+        ]
+      },
+      {
+        "id": "how-to-use-an-aspect-gem",
+        "heading": "How to Use an Aspect Gem",
+        "intro": "Equip the intended Class first, because the random Aspect is applied to the Class active at the moment you press Use.",
+        "steps": [
+          { "heading": "Choose your target Class", "description": "Equip the Class you genuinely plan to play. Pause on the class screen and verify its name before opening the item." },
+          { "heading": "Open the Inventory", "description": "Enter the Inventory and select the Aspect Gem. Do not use it from habit while a temporary or test Class is equipped." },
+          { "heading": "Press Use once", "description": "Use the selected gem to make one random Aspect roll onto the equipped Class. The documented flow does not let you choose a specific result." },
+          { "heading": "Confirm the result", "description": "Return to the Class panel and read the Aspect name and current tooltip. The live description is the best reference for its present trigger and effect." },
+          { "heading": "Test before rolling again", "description": "Try the Class in safe, familiar content so you can see whether the passive suits its normal attacks, skills, defense, or movement." }
+        ],
+        "paragraphs": [
+          "The most important moment is step one, not the random result. Dungeon Lootr Aspect Gems act on the currently equipped Class, so a correct Inventory sequence can still produce the wrong account decision if you forgot to switch away from a Class you were testing. Take a few seconds to verify the target before consuming the item."
+        ]
+      },
+      {
+        "id": "which-class-receives-the-aspect",
+        "heading": "Which Class Receives the Aspect?",
+        "intro": "The Class equipped when you use the gem receives the new random Aspect.",
+        "paragraphs": [
+          "Think of the Class as the destination and the Aspect Gem as a one-use delivery. Opening the Inventory does not change that destination. If you switch among several Classes, return to the Class screen immediately before spending the gem and confirm that your intended build is active.",
+          "The roll is not described as an account-wide passive or a loose item that you can assign later. This makes Class selection a resource-planning decision. Review the Classes guide to understand your options, then compare overall Class performance if you are unsure which one will remain in your regular dungeon rotation.",
+          "A practical target is a Class you already enjoy, can use consistently, and expect to keep. A rare label alone does not guarantee that you will like the moveset. Playing the Class first gives you a better sense of whether a random passive will support the actions you actually perform."
+        ],
+        "links": [
+          { "label": "Review the Dungeon Lootr class roster", "slug": "classes", "description": "Understand Classes and their obtainment paths before choosing a gem target." },
+          { "label": "Compare Class strength", "slug": "tier-list", "description": "Use the class ranking as one input when deciding where to invest." }
+        ]
+      },
+      {
+        "id": "existing-aspect",
+        "heading": "What Happens to Your Existing Aspect?",
+        "intro": "Treat a Class with an Aspect you value as a protected resource and inspect the live confirmation text before using another gem.",
+        "paragraphs": [
+          "A Dungeon Lootr Aspect Gem rolls a new passive onto the equipped Class. The documented use flow does not establish a separate storage slot, undo button, refund, lock, or guaranteed recovery method for the previous roll. If you are unwilling to lose a useful pairing, stop before pressing Use and keep the gem for another Class.",
+          "This cautious rule remains useful even when the interface changes: read any confirmation prompt, check the existing Aspect on the Class panel, and only continue if you accept the displayed outcome. Do not assume that closing the game, switching Classes, or contacting support will reverse a deliberate roll."
+        ]
+      },
+      {
+        "id": "when-to-spend",
+        "heading": "When Should You Spend Aspect Gems?",
+        "intro": "Spend after you have chosen a long-term Class and can accept a random result; save when your roster is still changing.",
+        "subsections": [
+          {
+            "heading": "Spend on a proven main Class",
+            "paragraphs": ["Use a gem when you have played the Class enough to understand its normal rotation and expect it to remain useful. This makes it easier to judge the resulting passive from real play rather than from rarity or visual effects alone."],
+            "bullets": ["Confirm the exact Class before opening Inventory.", "Keep at least one reliable dungeon-clearing option available.", "Read the new Aspect tooltip before making another roll."]
+          },
+          {
+            "heading": "Save during roster changes",
+            "paragraphs": ["Hold your Dungeon Lootr Aspect Gems if you are still replacing Classes frequently or have not decided which playstyle you prefer. Saving preserves the choice to invest later; an immediate random roll may attach value to a Class you soon stop using."],
+            "bullets": ["Do not spend simply because the item is available.", "Avoid chasing a named Aspect without spare gems.", "Use current Class and Aspect guides as decision aids, not guarantees."]
+          }
+        ],
+        "paragraphs": ["These are planning recommendations, not official game rules. A player who enjoys experimentation may accept more random rolls, while a new account usually gains more from preserving scarce options until its Class plan is clearer."]
+      },
+      {
+        "id": "new-player-tips",
+        "heading": "Aspect Gem Tips for New Players",
+        "intro": "A short checklist prevents most avoidable mistakes with a random, Class-bound roll.",
+        "subsections": [
+          {
+            "heading": "Before using a gem",
+            "paragraphs": ["Open the Class screen, identify the active Class, and note any Aspect already shown. Then decide whether you are comfortable changing that build before you enter the Inventory."],
+            "bullets": ["Claim only codes that are still marked working.", "Verify the equipped Class name twice.", "Keep the gem if the current Aspect is already useful.", "Do not expect to choose the random passive."]
+          },
+          {
+            "heading": "After using a gem",
+            "paragraphs": ["Read the in-game tooltip before searching for a build recommendation. Patch values can move, while the current Class panel shows the version you are actually playing. Test the trigger during normal attacks and skills, then compare its role with the Aspects guide."],
+            "bullets": ["Judge the effect in the Class's normal rotation.", "Separate a poor passive match from an unfamiliar Class.", "Avoid an immediate second roll until you understand the first."]
+          }
+        ]
+      },
+      {
+        "id": "related-guides",
+        "heading": "Related Aspect and Class Guides",
+        "intro": "Use each guide for one decision instead of turning the Aspect Gem process into a second tier list.",
+        "links": [
+          { "label": "Compare all Aspect effects and rankings", "slug": "aspects", "description": "See the dedicated Aspect list, build matches and practical tier ranking." },
+          { "label": "Browse Classes and unlock methods", "slug": "classes", "description": "Understand the roster before choosing the Class that receives a roll." },
+          { "label": "Check the Class tier list", "slug": "tier-list", "description": "Compare damage, clearing, mobility and survival priorities." },
+          { "label": "See current code rewards", "slug": "codes", "description": "Verify working promotions without assuming every code grants Aspect Gems." },
+          { "label": "Return to the Dungeon Lootr guide", "slug": "", "description": "Review the full gameplay loop and reach every focused resource." }
+        ]
+      },
+      {
+        "id": "aspect-gem-sources",
+        "heading": "Sources",
+        "intro": "The use flow and reward details were checked against current public references on September 9, 2026.",
+        "externalLinks": [
+          { "label": "All Things How gameplay systems guide", "url": "https://allthings.how/dungeon-lootr-explained-classes-forging-and-dungeon-loot-roblox/", "description": "Screenshots and steps for using an Aspect Gem on the equipped Class." },
+          { "label": "Dungeon Lootr on Roblox", "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr", "description": "Official ClickBytes experience and current game overview." }
+        ]
+      }
+    ],
+    "faq": [
+      { "question": "How do you get Aspect Gems in Dungeon Lootr?", "answer": "Promotional codes are a confirmed source. The September 2026 reward record lists GIVEMEGEMSPLEASE for three Aspect Gems, but code status can change, so check the current Codes page before redeeming it." },
+      { "question": "How do you use an Aspect Gem?", "answer": "Equip the target Class, open Inventory, select the Aspect Gem, and press Use. One random Aspect is applied to the Class you have equipped, so confirm the Class before consuming the gem." },
+      { "question": "Which class gets the new Aspect?", "answer": "The Class equipped when you press Use receives the random Aspect. Check the Class screen immediately before opening your Inventory." },
+      { "question": "Can an Aspect Gem replace an existing Aspect?", "answer": "A gem rolls a new passive onto the equipped Class. If you want to keep the Aspect already shown on that Class, do not use another gem until the live confirmation text makes the outcome clear." },
+      { "question": "Should new players save Aspect Gems?", "answer": "Saving is sensible while your Class roster is changing. Spend when you have a Class you plan to keep, understand its playstyle, and accept that the Aspect result is random." },
+      {
+        "question": "Where can I compare the best Aspects?",
+        "answer": "This page focuses only on obtaining, using, and planning Aspect Gems.",
+        "answerLink": { "label": "Compare effects, build matches, and rankings in the Dungeon Lootr Aspects guide.", "slug": "aspects" }
+      }
+    ],
+    "relatedSlugs": ["aspects", "classes", "tier-list", "codes"],
+    "densityTargets": [{ "term": "Dungeon Lootr Aspect Gems", "min": 0.2, "max": 1.2 }],
+    "lastReviewed": "2026-09-09"
+  }
+]

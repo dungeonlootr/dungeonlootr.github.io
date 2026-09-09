@@ -1,0 +1,211 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Dungeon Lootr Wiki & Guide – Codes, Aspects & Tier List",
+  "description": "Dungeon Lootr wiki and guide with working codes, classes, aspects, tier list, Trello links, progression tips, and the latest Roblox game information.",
+  "keywords": [
+    "dungeon lootr",
+    "dungeon lootr wiki",
+    "dungeon lootr guide",
+    "dungeon lootr roblox",
+    "dungeon lootr codes",
+    "dungeon lootr aspects",
+    "dungeon lootr tier list",
+    "dungeon lootr classes",
+    "dungeon lootr trello"
+  ],
+  "primaryKeyword": "dungeon lootr",
+  "secondaryKeywords": [
+    "dungeon lootr wiki",
+    "dungeon lootr guide",
+    "dungeon lootr roblox",
+    "dungeon lootr codes",
+    "dungeon lootr aspects",
+    "dungeon lootr tier list",
+    "dungeon lootr classes",
+    "dungeon lootr trello"
+  ],
+  "searchIntent": "Find a complete hub for Dungeon Lootr gameplay systems, codes, classes, aspects, rankings, progression help, and official links.",
+  "priority": "P0",
+  "navVisible": true,
+  "wordCountTarget": 1650,
+  "factsStatus": "verified",
+  "hero": {
+    "eyebrow": "Roblox dungeon ARPG",
+    "heading": "Dungeon Lootr Wiki & Guide",
+    "lead": "Dungeon Lootr is a Roblox hack-and-slash ARPG from ClickBytes built around randomized dungeons, class-based combat, boss fights, rare loot, and extraction.",
+    "supportingText": "This player hub brings the essentials together in one place, with quick routes to working codes, the class roster, passive Aspects, current rankings, progression advice, and official community links.",
+    "primaryLink": {
+      "label": "View working codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Play on Roblox",
+      "url": "https://www.roblox.com/games/106484206883664/Dungeon-Lootr"
+    },
+    "quickLinks": [
+      { "label": "Codes", "slug": "codes" },
+      { "label": "Aspects", "slug": "aspects" },
+      { "label": "Tier List", "slug": "tier-list" },
+      { "label": "Classes", "slug": "classes" },
+      { "label": "Trello & Links", "slug": "trello" }
+    ]
+  },
+  "sections": [
+    {
+      "id": "dungeon-lootr-codes",
+      "heading": "Dungeon Lootr Codes",
+      "intro": "Working codes are the quickest way to collect useful resources before committing time to dungeon runs, class rolls, or crafting.",
+      "paragraphs": [
+        "Start with the active list and claim every reward that still works. Codes can provide Coins, Luck Potions, Forge materials, Reforge materials, Aspect Gems, and other progression items. They are especially useful on a new account because even a small bundle can reduce the early grind and give you more options before your build is settled.",
+        "Redemption is handled inside the game after joining the ClickBytes Roblox community. Open the Menu, find the Codes option, paste an entry exactly as shown, and confirm the reward before trying the next one. The dedicated page keeps the working list, expired entries, rewards, and redemption steps together without turning this hub into a duplicate code table."
+      ],
+      "links": [
+        {
+          "label": "Open the working codes list",
+          "slug": "codes",
+          "description": "Copy active entries and see rewards, expired codes, and redemption steps."
+        }
+      ]
+    },
+    {
+      "id": "dungeon-lootr-aspects",
+      "heading": "Dungeon Lootr Aspects",
+      "intro": "Aspects are passive effects attached to classes, adding damage, speed, crowd control, sustain, or defensive value to a build.",
+      "paragraphs": [
+        "A useful Aspect should match the way your class already fights. Blaze and Alacrity reward fast basic attacks, Ruin supports sustained pressure on one target, and Tempest fits ability-heavy rotations. Sanguine can make difficult solo runs more forgiving, while Umbral has a clearer purpose in critical-hit setups. The best choice is therefore about synergy, not simply picking the rarest-looking effect.",
+        "Aspect Gems apply a random passive to the class currently equipped, so choose the class you want to keep before using one. Test the result during normal combat and pay attention to how often it activates. The full guide lists each documented effect and groups the strongest choices by playstyle, making it easier to spend limited gems with a clear plan."
+      ],
+      "links": [
+        {
+          "label": "Compare all Aspects",
+          "slug": "aspects",
+          "description": "See passive effects, practical rankings, and build pairings before using an Aspect Gem."
+        },
+        {
+          "label": "Learn how to use Aspect Gems",
+          "slug": "aspect-gems",
+          "description": "Check the receiving Class and follow the confirmed steps before spending a gem."
+        }
+      ]
+    },
+    {
+      "id": "dungeon-lootr-tier-list",
+      "heading": "Dungeon Lootr Tier List",
+      "intro": "The class ranking weighs damage, room-clearing power, mobility, survivability, and consistency across the content players actually run.",
+      "paragraphs": [
+        "High-end options such as Sinister Trigger, Awakened Devil EX, Cursed King, Anti Magic, and Dreadlord combine strong output with tools that remain useful in demanding encounters. Honored One, Unrestricted, and Jetstream are also valuable long-term targets. Rankings can shift as balance changes, but a good tier list should still explain why a class performs well and where that strength matters.",
+        "For a newer account, dependable execution is more important than chasing the top row immediately. A safe ranged kit, quick basic attacks, or reliable area damage can make early clears much smoother. Use the complete ranking to decide which class to keep, which one deserves levels and materials, and which unlock is worth treating as your next major goal."
+      ],
+      "links": [
+        {
+          "label": "See the complete class ranking",
+          "slug": "tier-list",
+          "description": "Compare documented classes and find practical picks for new accounts, dungeon clears, and bosses."
+        }
+      ]
+    },
+    {
+      "id": "dungeon-lootr-classes",
+      "heading": "Dungeon Lootr Classes",
+      "intro": "Classes determine your combat kit, attack rhythm, range, movement options, and the type of upgrades that fit your character.",
+      "paragraphs": [
+        "Most classes come from Spins, while special choices may require Boss Rush progress, Forge materials, quests, mode drops, evolutions, or bundles. The roster covers several rarity bands, but rarity does not automatically make a class right for your account. A lower-ranked option with dependable area coverage or simple survival tools may carry early progression more comfortably than a complicated class you cannot support yet.",
+        "Extra slots let you preserve useful alternatives while working toward harder unlocks. Keep at least one consistent clearing class instead of replacing every playable option during a reroll session. The class directory separates the roll pool from special acquisition routes and explains what is currently documented for each entry, so you can plan upgrades without duplicating the full roster here."
+      ],
+      "links": [
+        {
+          "label": "Browse the full class directory",
+          "slug": "classes",
+          "description": "Explore the roster by rarity and compare Spins with special unlock routes."
+        }
+      ]
+    },
+    {
+      "id": "dungeon-lootr-trello-official-links",
+      "heading": "Dungeon Lootr Trello & Official Links",
+      "intro": "Use the official resources page to reach the correct Roblox experience, ClickBytes community, Discord server, and current Trello status.",
+      "paragraphs": [
+        "The Roblox game page is the direct launch point and the clearest place to see the developer's public overview. The ClickBytes community connects players with the studio and is required before many promotional codes can be redeemed. Discord is the practical destination for announcements, update discussion, code drops, and help from other players when a system changes after a patch.",
+        "ClickBytes does not currently advertise an official Trello board. Rather than sending players toward an unrelated or unofficial board, the dedicated links page explains the current status and provides the useful destinations that are available. It also connects back to the focused guides for codes, classes, Aspects, and rankings when you need structured gameplay information."
+      ],
+      "links": [
+        {
+          "label": "Open Trello status and official links",
+          "slug": "trello",
+          "description": "Find the game, community, Discord, and focused guide destinations in one place."
+        }
+      ]
+    },
+    {
+      "id": "what-is-dungeon-lootr",
+      "heading": "What Is Dungeon Lootr?",
+      "intro": "This Roblox dungeon RPG by ClickBytes combines randomized rooms, class-based combat, boss encounters, valuable drops, and extraction in every run.",
+      "paragraphs": [
+        "The basic loop is easy to understand: enter a dungeon, clear enemy groups, survive tougher rooms, defeat the boss, collect gear and other rewards, then leave with what you earned. Randomized layouts keep the route from feeling identical every time, while extraction gives each run a meaningful finish. Reaching a drop is only part of the result; escaping safely turns that item into lasting progress for your account.",
+        "Classes provide distinct movesets and shape how you approach a room. Some favor quick basic attacks, some rely on abilities and area damage, and others gain value through range, movement, or defensive timing. Equipment, stats, and passive Aspects then refine that foundation. The systems work best when they support one another, which is why a coherent build usually performs better than a collection of individually strong bonuses with no shared purpose.",
+        "Long-term progression extends beyond normal runs. Boss Rush and Challenge Dungeon offer goals for stronger characters, while special classes and evolutions create longer unlock paths. Players can improve by learning enemy patterns, building a reliable class, extracting better loot, and gradually preparing for harder encounters. This homepage acts as the wiki and guide hub for those connected systems, while each detailed topic remains on its own focused page."
+      ]
+    },
+    {
+      "id": "progression",
+      "heading": "How to Progress in Dungeon Lootr",
+      "intro": "Steady progression comes from understanding the dungeon loop, protecting useful classes, extracting suitable gear, and spending limited resources with a specific build in mind.",
+      "paragraphs": [
+        "Begin with normal dungeons and learn what a safe run feels like. Clear dangerous ranged enemies early, move instead of trading every hit, and practice dodge or parry timing. Speed can wait; a controlled extraction is more valuable than a rushed attempt that leaves good drops behind.",
+        "Keep a class that clears rooms reliably before taking major reroll risks. Range, area coverage, attack speed, and defensive tools can all carry early progression. Extra class slots let you experiment without losing a working kit. Check the class directory before spending Spins so you know which options need separate unlock paths.",
+        "Build around your existing strengths. Basic-attack classes benefit from effects that trigger often, while ability-focused kits need good cooldown flow, positioning, and coverage. Equip gear that improves that pattern and extract within your limits. Use active codes before a rolling or crafting session, then save scarce consumables until you can make several worthwhile attempts.",
+        "When normal clears feel dependable, compare your passive with the Aspects guide and use the tier list to identify sensible future targets. Move into Boss Rush or Challenge Dungeon when your damage and survival are consistent. Work toward one concrete upgrade at a time instead of chasing every system at once."
+      ],
+      "subsections": [
+        {
+          "heading": "What to Do First in Dungeon Lootr",
+          "paragraphs": [
+            "Join the ClickBytes community, claim the active codes, and complete normal dungeon runs until combat and extraction feel comfortable. Keep a dependable class while learning which gear supports its moveset. After that foundation is secure, compare Aspects for passive synergy and use the tier list to choose a realistic upgrade target rather than rerolling without a plan."
+          ],
+          "bullets": [
+            "Claim the available rewards on the Codes page before farming materials.",
+            "Learn enemy patterns, movement, boss timing, and safe extraction in normal runs.",
+            "Keep a reliable class and protect it with an extra slot before risky Spins.",
+            "Match gear and passive effects to the attacks you use most often.",
+            "Treat harder modes and top-ranked classes as staged goals, not immediate requirements."
+          ]
+        }
+      ],
+      "links": [
+        { "label": "Claim active rewards", "slug": "codes", "description": "Use free resources before a rolling or crafting session." },
+        { "label": "Plan your class path", "slug": "classes", "description": "Compare roll-pool classes with special unlock routes." },
+        { "label": "Match a passive to your build", "slug": "aspects", "description": "Choose effects that support your natural combat pattern." },
+        { "label": "Choose a realistic upgrade target", "slug": "tier-list", "description": "Compare strong options for clears, bosses, and later progression." }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Dungeon Lootr on Roblox?",
+      "answer": "It is a hack-and-slash dungeon ARPG created by ClickBytes. Players enter randomized dungeon runs, fight enemy groups and bosses with class-based abilities, collect gear and other rewards, and extract to keep their loot. Character growth continues through classes, equipment, stats, passive Aspects, Boss Rush, Challenge Dungeon, and longer special-unlock paths."
+    },
+    {
+      "question": "How many classes are in Dungeon Lootr?",
+      "answer": "The official Roblox description advertises more than 30 unique classes. The current class directory covers 29 documented release names and separates ordinary Spin results from classes gained through Boss Rush, the Forge, quests, mode drops, evolutions, or bundles. Open the Classes page for the roster, rarity groups, and acquisition routes."
+    },
+    {
+      "question": "What should a new player do first?",
+      "answer": "Join the ClickBytes Roblox community, claim the active codes, and learn normal dungeon combat before spending rare resources. Focus on clearing rooms safely, understanding boss patterns, and extracting useful gear. Keep a dependable class while you learn how its moveset works, then choose stats and an Aspect that support the attacks you use most often."
+    },
+    {
+      "question": "Does Dungeon Lootr have an official Trello?",
+      "answer": "ClickBytes does not currently advertise an official Trello board. Use the dedicated Trello and official links page for the current status, the correct Roblox experience, the ClickBytes community, and the official Discord. Those destinations cover announcements and community information, while the focused pages on this site organize the main gameplay topics."
+    },
+    {
+      "question": "Where can I find the latest Dungeon Lootr codes?",
+      "answer": "Use the dedicated Codes page for the active list, reward details, expired entries, and the current redemption steps. The page is designed for quick copying and keeps time-sensitive code information separate from this broader guide hub. Remember to join the ClickBytes Roblox community before redeeming, because membership is required for many promotional entries."
+    }
+  ],
+  "screenshots": [],
+  "densityTargets": [
+    { "term": "Dungeon Lootr", "min": 0.3, "max": 1.2 }
+  ],
+  "lastReviewed": "2026-09-04"
+}

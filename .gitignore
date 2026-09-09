@@ -1,0 +1,27 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+.DS_Store
+*.tsbuildinfo
+.playwright-cli/
+release/
+.idea/
+
+# Internal generation, research and handoff files
+.agent/
+CLAUDE.md
+CODEX_BRIEF.md
+CODEX_HANDOFF_PROMPT.txt
+CONTENT_PACK.json
+GAME_FACT_PACK.json
+GENERATION_AUDIT.json
+GENERATION_MANIFEST.json
+PROJECT_CONTEXT.md
+QA_REPORT.json
+SEO_PLAN.json
+SERP_BRIEF.json
+SITE_PLAN.json
+SOURCE_PACK.json
+THEME.json
