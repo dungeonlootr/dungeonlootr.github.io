@@ -80,11 +80,13 @@ html[data-component-style="pill"] .content-card {
   border-radius: 1.75rem;
 }
 
-[data-native-ad-slot]:empty { display: none; }
-
 .responsive-banner-ad {
-  margin-top: 2rem;
   min-width: 0;
+  display: none;
+}
+.responsive-banner-ad--filled {
+  display: block;
+  margin-top: 2rem;
 }
 .responsive-banner-ad__label {
   margin: 0 0 .5rem;
@@ -97,15 +99,28 @@ html[data-component-style="pill"] .content-card {
 }
 .responsive-banner-ad__slot {
   display: flex;
-  min-height: 50px;
   min-width: 0;
   justify-content: center;
   overflow: hidden;
 }
 .responsive-banner-ad__slot > * { flex: 0 0 auto; }
 
-@media (min-width: 768px) {
-  .responsive-banner-ad__slot { min-height: 90px; }
+.native-ad {
+  display: none;
+  min-width: 0;
+}
+.native-ad--filled {
+  display: block;
+  margin-top: 2rem;
+}
+.native-ad__label {
+  margin: 0 0 .75rem;
+  text-align: center;
+  font-size: .75rem;
+  letter-spacing: .1em;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: hsl(var(--muted-foreground));
 }
 
 @media (prefers-reduced-motion: reduce) {

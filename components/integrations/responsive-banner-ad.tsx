@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import { usePathname } from "next/navigation";
 import { integrations } from "@/config/integrations";
 
@@ -25,6 +25,7 @@ export function ResponsiveBannerAd() {
   const hostRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
   const bannerAds = integrations.bannerAds;
+  const [isFilled, setIsFilled] = useState(false);
 
   useEffect(() => {
     const host = hostRef.current;
@@ -32,10 +33,27 @@ export function ResponsiveBannerAd() {
 
     const viewport = window.matchMedia("(min-width: 768px)");
     let activeScript: HTMLScriptElement | null = null;
+    let activeFrame: HTMLIFrameElement | null = null;
+
+    const revealWhenLoaded = () => setIsFilled(true);
+
+    const observeCreative = () => {
+      const frame = host.querySelector("iframe");
+      if (!frame || frame === activeFrame) return;
+
+      activeFrame?.removeEventListener("load", revealWhenLoaded);
+      activeFrame = frame;
+      frame.addEventListener("load", revealWhenLoaded, { once: true });
+    };
+
+    const observer = new MutationObserver(observeCreative);
+    observer.observe(host, { childList: true, subtree: true });
 
     const loadPlacement = () => {
       const placement = viewport.matches ? bannerAds.desktop : bannerAds.mobile;
       host.replaceChildren();
+      activeFrame = null;
+      setIsFilled(false);
 
       // This is the object required by the provider's supplied script.
       window.atOptions = {
@@ -52,6 +70,7 @@ export function ResponsiveBannerAd() {
       script.dataset.adsterraBanner = placement.key;
       activeScript = script;
       host.appendChild(script);
+      observeCreative();
     };
 
     loadPlacement();
@@ -59,6 +78,8 @@ export function ResponsiveBannerAd() {
 
     return () => {
       viewport.removeEventListener("change", loadPlacement);
+      observer.disconnect();
+      activeFrame?.removeEventListener("load", revealWhenLoaded);
       activeScript?.remove();
       host.replaceChildren();
     };
@@ -67,8 +88,8 @@ export function ResponsiveBannerAd() {
   if (!bannerAds) return null;
 
   return (
-    <aside aria-label="Advertisement" className="responsive-banner-ad">
-      <p className="responsive-banner-ad__label">Advertisement</p>
+    <aside aria-label="Advertisement" className={`responsive-banner-ad${isFilled ? " responsive-banner-ad--filled" : ""}`}>
+      {isFilled ? <p className="responsive-banner-ad__label">Advertisement</p> : null}
       <div ref={hostRef} className="responsive-banner-ad__slot" data-responsive-banner-ad />
     </aside>
   );
